@@ -225,8 +225,8 @@ p.note { display: none; }
 <a href="20251117_026.JPG" target="_blank"><img src="20251117_026.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">一旦保護したヒヨコ達は電灯の灯りで温めます</span></h2>
-<a href="20251117_027.JPG" target="_blank"><img src="20251117_027.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251117_028.JPG" target="_blank"><img src="20251117_028.JPG" alt="サンプル画像" class="responsive-media"></a>
+<a href="20251117_027.JPG" target="_blank"><img src="20251117_027.JPG" alt="サンプル画像" class="responsive-media"></a>
 
     
 
