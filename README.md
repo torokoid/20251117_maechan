@@ -166,7 +166,7 @@ p.note { display: none; }
 
 <div class="media-container">
 
-<h2><span class="yellow">15,Nov,2025 庭にお花が咲きました、あまりに小さくてピントが合わせづらい・・・</span></h2>
+<h2><span class="yellow">16,Nov,2025 庭にお花が咲きました、あまりに小さくてピントが合わせづらい・・・</span></h2>
 <a href="20251117_001.JPG" target="_blank"><img src="20251117_001.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251117_002.JPG" target="_blank"><img src="20251117_002.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20251117_003.JPG" target="_blank"><img src="20251117_003.JPG" alt="サンプル画像" class="responsive-media"></a>
